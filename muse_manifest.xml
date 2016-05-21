@@ -1,0 +1,74 @@
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="https://github.com/Richardz69/espacepourlamort.github.io" resolutions="1x,2x" timestamp="1463769223880">
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="master_a-gabarit.css" crc="4034111170" ref="index"/>
+    <file name="index.css" crc="373596772" ref="index"/>
+    <file name="iefonts_index.css" crc="3828221564" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="196614522" ref="index"/>
+    <file name="museutils.js" crc="275725342" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="206645848" ref="index"/>
+    <file name="jquery.watch.js" crc="3999102769" ref="index"/>
+    <file name="webpro.js" crc="3883484123" ref="index"/>
+    <file name="musewpslideshow.js" crc="360574455" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="342093292" ref="index"/>
+    <file name="touchswipe.js" crc="4218319045" ref="index"/>
+    <file name="musewpdisclosure.js" crc="404074387" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="page-d-accueil-favicon.ico" crc="4023984810" ref="index"/>
+    <file name="icon175x175.jpg" crc="4217360840" seo="true" ref="index"/>
+    <file name="icon175x175_2x.jpg" crc="3957026283" seo="true" ref="index"/>
+    <file name="mail.png" crc="4135748015" seo="true" ref="index"/>
+    <file name="mail_2x.png" crc="232219968" seo="true" ref="index"/>
+    <file name="shop.png" crc="63058788" seo="true" ref="index"/>
+    <file name="time.png" crc="4094514450" seo="true" ref="index"/>
+    <file name="logo-mjeplv.jpg" crc="4120951118" seo="true" ref="index"/>
+    <file name="logo-mjeplv_2x.jpg" crc="25930485" seo="true" ref="index"/>
+    <file name="logobiodome.png" crc="3815568332" seo="true" ref="index"/>
+    <file name="logobiodome_2x.png" crc="18774003" seo="true" ref="index"/>
+    <file name="backgroundb1-crop-u1406.jpg" crc="10174163" ref="index"/>
+    <file name="backgroundb1-crop-u1406_2x.jpg" crc="4119810744" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="backgroundb2-crop-u1464.jpg" crc="3828880713" ref="index"/>
+    <file name="backgroundb2-crop-u1464_2x.jpg" crc="4030321990" ref="index"/>
+    <file name="backgroundb3.jpg" crc="221589077" seo="true" ref="index"/>
+    <file name="backgroundb3_2x.jpg" crc="292454793" seo="true" ref="index"/>
+    <file name="backgroundb4.jpg" crc="385088811" seo="true" ref="index"/>
+    <file name="backgroundb4_2x.jpg" crc="4026292054" seo="true" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="insectarium_montreal.png" crc="4193439874" seo="true" ref="index"/>
+    <file name="insectarium_montreal_2x.png" crc="4104609944" seo="true" ref="index"/>
+    <file name="background1i-crop-u1316.jpg" crc="76493927" ref="index"/>
+    <file name="background1i-crop-u1316_2x.jpg" crc="3772767727" ref="index"/>
+    <file name="background2i-crop-u1374.jpg" crc="483990601" ref="index"/>
+    <file name="background2i-crop-u1374_2x.jpg" crc="4015016816" ref="index"/>
+    <file name="background3i-crop-u1383.jpg" crc="4076442066" ref="index"/>
+    <file name="background3i-crop-u1383_2x.jpg" crc="3870990576" ref="index"/>
+    <file name="background4i-crop-u1392.jpg" crc="92097889" ref="index"/>
+    <file name="background4i-crop-u1392_2x.jpg" crc="13935940" ref="index"/>
+    <file name="jardin_botanique_montreal.png" crc="410593312" seo="true" ref="index"/>
+    <file name="jardin_botanique_montreal_2x.png" crc="3782427756" seo="true" ref="index"/>
+    <file name="background1j-crop-u1226.jpg" crc="4127810892" ref="index"/>
+    <file name="background1j-crop-u1226_2x.jpg" crc="4174198089" ref="index"/>
+    <file name="background2j-crop-u1284.jpg" crc="2117738" ref="index"/>
+    <file name="background2j-crop-u1284_2x.jpg" crc="418528701" ref="index"/>
+    <file name="background3j-crop-u1293.jpg" crc="257122252" ref="index"/>
+    <file name="background3j-crop-u1293_2x.jpg" crc="170295939" ref="index"/>
+    <file name="background4j-crop-u1302.jpg" crc="143662599" ref="index"/>
+    <file name="background4j-crop-u1302_2x.jpg" crc="3903825111" ref="index"/>
+    <file name="logo_planetarium.png" crc="4103124589" seo="true" ref="index"/>
+    <file name="logo_planetarium_2x.png" crc="5859206" seo="true" ref="index"/>
+    <file name="backgroundp1-crop-u1065.jpg" crc="281236795" ref="index"/>
+    <file name="backgroundp1-crop-u1065_2x.jpg" crc="265702790" ref="index"/>
+    <file name="backgroundp2-crop-u1192.jpg" crc="4253836233" ref="index"/>
+    <file name="backgroundp2-crop-u1192_2x.jpg" crc="49976081" ref="index"/>
+    <file name="backgroundp3-crop-u1201.jpg" crc="518463065" ref="index"/>
+    <file name="backgroundp3-crop-u1201_2x.jpg" crc="178021257" ref="index"/>
+    <file name="backgroundp4-crop-u1210.jpg" crc="435611241" ref="index"/>
+    <file name="backgroundp4-crop-u1210_2x.jpg" crc="4054231611" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4239463921" seo="true" mt="1463767560435" redirect="true"/>
+</manifest>
